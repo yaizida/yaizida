@@ -10,7 +10,6 @@
 
 <img align="right" height="150" src="https://38.media.tumblr.com/tumblr_m2l443wzt81r5y3xho1_500.gif"  />
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -50,6 +49,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/yaizida/yaizida/output/github-contribution-grid-snake.svg)
+# ![Snake animation](https://github.com/yaizida/yaizida/output/github-contribution-grid-snake.svg)
 
 ###
