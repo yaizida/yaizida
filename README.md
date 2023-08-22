@@ -51,6 +51,5 @@
 
 <br clear="both">
 
-# ![Snake animation](https://github.com/yaizida/yaizida/output/github-contribution-grid-snake.svg)
 
 ###
