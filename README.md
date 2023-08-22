@@ -2,11 +2,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izida&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaizida&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="160" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yaizida&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=yaizida&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
-
 ###
 
 <img align="right" height="150" src="https://38.media.tumblr.com/tumblr_m2l443wzt81r5y3xho1_500.gif"  />
