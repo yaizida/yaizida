@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nick. I'm a python developer and mentor, litle bit GO developer</h2>
+<h2 align="left">Hi 👋! My name is Nick. I'm a Data Engineer</h2>
 
 ###
 
